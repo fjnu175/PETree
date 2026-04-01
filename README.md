@@ -26,7 +26,7 @@ The `match` class is used to store **sub-pattern match results**, including the 
 
 ### function.java
 
-The `function` class 包含了系统的一些实现的必须要的函数
+The `function` class contains some essential functions required for the implementation of the system.
 
 1.`checkAllBuffer()` checks whether all operator nodes have non-empty event buffers.
  **Parameters:**
